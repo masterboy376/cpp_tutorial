@@ -34,3 +34,5 @@
 # extras
 pointers
 array
+struct-union-enum
+callByValue-callByReference
