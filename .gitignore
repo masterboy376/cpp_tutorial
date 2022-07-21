@@ -36,3 +36,6 @@ pointers
 array
 struct-union-enum
 callByValue-callByReference
+inlineFunc-defaultArg-constArg
+recursions
+function-overloading
