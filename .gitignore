@@ -39,3 +39,5 @@ callByValue-callByReference
 inlineFunc-defaultArg-constArg
 recursions
 function-overloading
+class
+nesting-of-member-function
