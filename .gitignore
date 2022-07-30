@@ -35,9 +35,11 @@
 pointers
 array
 struct-union-enum
+static-members-methods
 callByValue-callByReference
 inlineFunc-defaultArg-constArg
 recursions
 function-overloading
 class
 nesting-of-member-function
+object-array
