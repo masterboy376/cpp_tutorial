@@ -43,3 +43,5 @@ function-overloading
 class
 nesting-of-member-function
 object-array
+friend-functions
+friend-class-and-member-friend-
