@@ -44,4 +44,6 @@ class
 nesting-of-member-function
 object-array
 friend-functions
-friend-class-and-member-friend-
+friend-class-and-member-friend-functions
+little-more-on-friend-functions
+constructor
