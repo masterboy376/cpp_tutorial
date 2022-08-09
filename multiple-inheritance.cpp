@@ -47,11 +47,11 @@ class Derived : public Base1, public Base2, public Base3
 
 int main()
 {
-    Derived harry;
-    harry.set_base1int(25);
-    harry.set_base2int(5);
-    harry.set_base3int(15);
-    harry.show();
+    Derived daddy;
+    daddy.set_base1int(25);
+    daddy.set_base2int(5);
+    daddy.set_base3int(15);
+    daddy.show();
     
     return 0;
 }
