@@ -55,3 +55,6 @@ single-inheritance
 protected-access-modifier
 multilevel-inheritance
 multiple-inheritance
+ex1
+inheritance-ambiguity
+virtual-base-class
