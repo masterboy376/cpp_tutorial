@@ -58,3 +58,5 @@ multiple-inheritance
 ex1
 inheritance-ambiguity
 virtual-base-class
+constructors-in-derived-class
+initialization-list-in-constructor
