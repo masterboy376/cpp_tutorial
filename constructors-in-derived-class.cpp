@@ -18,6 +18,8 @@ class A: public B, virtual public C{
     // Order of execution of constructor -> C() then B() and A()
 };
 
+note: if there is any virtual class then it will be priortized first
+
 */
 
 

@@ -60,3 +60,6 @@ inheritance-ambiguity
 virtual-base-class
 constructors-in-derived-class
 initialization-list-in-constructor
+new-delete-in-pointers
+pointers-to-objects-and-arrow-operator
+array-of-objects-using-pointers
