@@ -63,3 +63,6 @@ initialization-list-in-constructor
 new-delete-in-pointers
 pointers-to-objects-and-arrow-operator
 array-of-objects-using-pointers
+this-pointer
+polymorphism
+pointer-to-derived-class
