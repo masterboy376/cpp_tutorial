@@ -18,6 +18,8 @@ class DerivedClass : public BaseClass{
             }
 };
 
+// run time polymorphism 
+
 int main(){
     BaseClass * base_class_pointer;
     BaseClass obj_base;

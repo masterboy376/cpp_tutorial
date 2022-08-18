@@ -66,3 +66,6 @@ array-of-objects-using-pointers
 this-pointer
 polymorphism
 pointer-to-derived-class
+virtual-function
+virtual-function-example
+abstract-base-class-and-pure-virtual-function
