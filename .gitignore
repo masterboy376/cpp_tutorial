@@ -69,3 +69,6 @@ pointer-to-derived-class
 virtual-function
 virtual-function-example
 abstract-base-class-and-pure-virtual-function
+basic-file-io
+read-write-in-same-program
+open-and-eof
