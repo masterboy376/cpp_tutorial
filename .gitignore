@@ -72,3 +72,6 @@ abstract-base-class-and-pure-virtual-function
 basic-file-io
 read-write-in-same-program
 open-and-eof
+template
+multiple-parameters-templates
+funtion-template
