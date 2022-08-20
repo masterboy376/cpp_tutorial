@@ -75,3 +75,7 @@ open-and-eof
 template
 multiple-parameters-templates
 funtion-template
+stl-vector
+stl-list
+stl-map
+function-objects-functors
